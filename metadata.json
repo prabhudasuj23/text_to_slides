@@ -1,0 +1,5 @@
+{
+  "name": "Visual Slides Generator",
+  "description": "A 3-layer AI pipeline for generating professional presentation slides using Gemini models.",
+  "requestFramePermissions": []
+}
